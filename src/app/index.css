@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home-txt-1 {
+  font-size: 64px;
+  line-height: 64px;
+}
+
+.home-txt-2 {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+.req-form {
+  grid-template-columns: auto 291px;
+}
+
+.form-req-input {
+  color: #909cac;
+}
+
+.adv-header {
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 900;
+  margin-bottom: 24px;
+}
+
+.adv-txt {
+  font-size: 18px;
+  font-weight: 500;
+  color: #7d7d7d;
+}

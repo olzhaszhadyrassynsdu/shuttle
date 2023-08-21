@@ -1,0 +1,12 @@
+.menu .item {
+  margin-right: 32px;
+  font-size: 18px;
+  color: white;
+}
+
+.menu .btn {
+  padding: 15px 10px;
+  line-height: 14px;
+  color: white;
+  width: 120px;
+}
